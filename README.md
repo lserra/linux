@@ -21,8 +21,6 @@ Enjoy it!
 
 # Index
 
-[What's a command line?]()
-
-[What's a bash script?]()
-
-[What's a crontab?]()
+- [What's a command line?]()
+- [What's a bash script?]()
+- [What's a crontab?]()
