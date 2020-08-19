@@ -21,6 +21,7 @@ Enjoy it!
 
 # Index
 
+- [Basic Concepts](https://)
 - [What's command line?](https://github.com/lserra/linux/wiki/CLI-(command-line))
 - [What's bash script?]()
 - [What's crontab?]()
