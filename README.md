@@ -21,6 +21,7 @@ Enjoy it!
 
 # Index
 
+- [Home](https://github.com/lserra/linux/wiki/Home)
 - [Basic Concepts](https://github.com/lserra/linux/wiki/Basic-Concepts)
 - [CLI (command line)](https://github.com/lserra/linux/wiki/CLI-(command-line))
 - [Other Commands](https://github.com/lserra/linux/wiki/Other-Commands)
